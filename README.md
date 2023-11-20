@@ -1,7 +1,7 @@
 # Lecture_Test
 <br>
 <h3>Convolution Layer</h3>
-<a target="_blank" href="https://colab.research.google.com/github/DongHwiCho/Lecture_Test/blob/main/ai_%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99%EC%9B%90_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_convolution(1).ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/DongHwiCho/Lecture_Test/blob/main/ai_%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99%EC%9B%90_%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C_convolution%20(1).ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
